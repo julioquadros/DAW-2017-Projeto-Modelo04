@@ -3,7 +3,7 @@
   <persistence-unit name="DAW-2017-Projeto-Modelo04PU" transaction-type="RESOURCE_LOCAL">
     <provider>org.hibernate.ejb.HibernatePersistence</provider>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/DAW-2017-1-5N1"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/DAW-2017-Projeto-Modelo04"/>
       <property name="javax.persistence.jdbc.password" value="postgres"/>
       <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
       <property name="javax.persistence.jdbc.user" value="postgres"/>
